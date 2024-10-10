@@ -69,4 +69,4 @@ This project is licensed under the MIT License.
 
 ## References
 
-1. CNN architecture and real-time detection information were adapted from various face mask detection projects using CNN [citation:1][citation:2][citation:3][citation:4][citation:7][citation:9][citation:10].  
+1. CNN architecture and real-time detection information were adapted from various face mask detection projects using CNN.
